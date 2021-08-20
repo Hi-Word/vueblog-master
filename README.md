@@ -1,6 +1,6 @@
 > **项目：vueblog**
 >
-> **公众号：MarkerHub**
+
 
 ### 介绍
 
@@ -25,13 +25,5 @@ vue入门视频：https://www.bilibili.com/video/BV125411W73W/
 
 **vueblog讲解视频：** https://www.bilibili.com/video/BV1PQ4y1P7hZ/
 
-关注我的B站，后续陆续还有
 
-* 前后端分离类百度搜索引擎项目
-* 即时聊天等项目
 
-等项目分享出来哈！
-
-**更多项目请关注公众号：MarkerHub**
-
-![MarkerHub](https://camo.githubusercontent.com/061df651b4fcfec5d258dc2beb78f441b9360e42/68747470733a2f2f696d6167652d313330303536363531332e636f732e61702d6775616e677a686f752e6d7971636c6f75642e636f6d2f6d696e652f4d61726b65724875622e6a7067)
